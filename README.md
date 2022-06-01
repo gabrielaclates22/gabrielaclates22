@@ -1,0 +1,3 @@
+- 👋 oi,eu sou a Gabriela <3
+- 👀 estou interessada em programação 
+- 🌱 atualmente estou aprendendo programação no javascript 😊
